@@ -51,18 +51,14 @@
 <br>
 <br>
 <div align="center">
-  <h2 align="center"><u>My Best Works</u></h2>
+  <h2 align="center"><u>Some of my projects and practices: </u></h2>
   
   | Name                  | Description                                                |
   | ---------------------------------|--------------------------------------------------------------- |
   | _[project planner/ anotador de proyectos](https://github.com/tomasherreradev/anotardor_de_tareas)_            | easily manage a project and its tasks             |
-  | _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 64 website templates.     |
-  | _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
-  | _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                         | Play music in termux by mpv.                                     |
-  | _[Messenger-Desktop](https://github.com/KasRoudra/messengerdesktop)_           |  Messenger in desktop mode for easy file sharing.                |
-  | _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                       | Encrypt or decrypt shell script and compile python scripts       |
-  | _[CamHacker](https://github.com/KasRoudra/CamHacker)_                         | Hack anyone's camera with a phishing link.                       |
-  | _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_               | Expose locally hosted website into all over internet.            |
+  | _[beauty salon/ salon de belleza](https://github.com/tomasherreradev/appsalon)_                          |  beauty salon management software|
+  | _[Age calculator from frontend-mentor](https://github.com/tomasherreradev/age-calculator)_                  | simple project with validations |
+
   
 </div>
 
