@@ -1,4 +1,4 @@
 
 <div class="center">
-  <p>###Hello, I'm Tomás 👨‍💻</p>
+  <h1>Hello, I'm Tomás 👨‍💻</h1>
 </div>
