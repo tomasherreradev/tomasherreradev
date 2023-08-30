@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">Hello World! I'm Tomás 👨‍💻</h1>
   <p align="center">-A fullstack web developer-</p>
-  <p align="center"></p>Thank You for taking the time to view my GitHub Profile</p>
+  <p align="center">Thank You for taking the time to view my GitHub Profile</p>
 </div>
 
 
