@@ -25,10 +25,11 @@
 
 <br>
 
-- **Dabases And others**:
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+<br>   
+    
+- **Front-End Development**:
 
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br>
 
