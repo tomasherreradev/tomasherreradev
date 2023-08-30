@@ -55,7 +55,7 @@
   
   | Name                  | Description                                                |
   | ---------------------------------|--------------------------------------------------------------- |
-  | _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
+  | _[project planner/ anotador de proyectos](https://github.com/tomasherreradev/anotardor_de_tareas)_            | easily manage a project and its tasks             |
   | _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 64 website templates.     |
   | _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
   | _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                         | Play music in termux by mpv.                                     |
