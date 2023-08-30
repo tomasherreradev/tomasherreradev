@@ -5,10 +5,12 @@
   <p align="center">Thank You for taking the time to view my GitHub Profile</p>
 </div>
 
+<div align="center">
+  <p align="center">
+    <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+fullstack+junior+developer+%3AD;Computer+student...;And+I+live+in+La+Rioja%2C+Argentina;+have+a+nice+day+%3AD" alt="Typing SVG" /></a>
+  </p>
+</div>
 
-<p align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+fullstack+junior+developer+%3AD;Computer+student...;And+I+live+in+La+Rioja%2C+Argentina;+have+a+nice+day+%3AD" alt="Typing SVG" /></a>
-</p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
