@@ -58,6 +58,7 @@
   | _[project planner/ anotador de proyectos](https://github.com/tomasherreradev/anotardor_de_tareas)_            | easily manage a project and its tasks             |
   | _[beauty salon/ salon de belleza](https://github.com/tomasherreradev/appsalon)_                          |  beauty salon management software|
   | _[Age calculator from frontend-mentor](https://github.com/tomasherreradev/age-calculator)_                  | simple project with validations |
+  | _[music festival / Festival de música](https://github.com/tomasherreradev/festival_musica)_                  | music festival project |
 
   
 </div>
