@@ -79,4 +79,10 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  <p align="center">Or:</p>
+    <a href="https://gmail.com">tomasherrera270@gmail.com</a>
+</div>
+
 <br>
